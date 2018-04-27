@@ -1,1 +1,5 @@
-{}
+{
+  "buildkite": {
+    "enabled": true
+  }
+}
